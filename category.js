@@ -22,7 +22,7 @@ function showCategory(oneCategory){
 
 
 copy.querySelector("a").textContent=oneCategory.category;
-copy.querySelector("a").href= `/Users/alimerkouk/Documents/s2/pdt list/product-list.html?category=${oneCategory.category}`;
+copy.querySelector("a").href= `/Users/alimerkouk/Desktop/product/product-list.html?category=${oneCategory.category}`;
 
 
     // grab parent
